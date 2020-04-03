@@ -8,7 +8,7 @@
     Ce script est utilisé pour le laboratoire de programmation en Powershell.
 .NOTES
 
-    Author: Cheikhthiam
+    Author: 300111766
     Derniere mise à jour: yyyy-mm-dd
 #>
 # Definition de la fonction
